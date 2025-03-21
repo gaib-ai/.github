@@ -1,3 +1,3 @@
 # GAIB
 
-The economic layer for AI and compute future.
+The First Economic Layer for AI & Compute Future
